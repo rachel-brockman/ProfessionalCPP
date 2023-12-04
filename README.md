@@ -1,2 +1,2 @@
-# ITP435
-All problem sets from USC Professional C++ course
+# Professional C++
+Problem sets from USC Professional C++ course
